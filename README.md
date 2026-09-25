@@ -1,6 +1,6 @@
 # Data_Cleaning_pandas
 Data_Cleaning_pandas I shark_attacks
-# Escuela de surf segura 
+ 
 
 **Dónde abrir, dónde no y cuándo reforzar la vigilancia, según 75 años de ataques de tiburón registrados**
 
