@@ -1,8 +1,6 @@
 # Data_Cleaning_pandas
 Data_Cleaning_pandas I shark_attacks
- 
 
-**Dónde abrir, dónde no y cuándo reforzar la vigilancia, según 75 años de ataques de tiburón registrados**
 
 Proyecto de limpieza y análisis de datos con pandas · Ironhack Data Analytics · 2026
 João Miguel Pais y Juan Carlos Del Mar Lostanau
@@ -11,7 +9,7 @@ João Miguel Pais y Juan Carlos Del Mar Lostanau
 
 ## Objetivo
 
-Limpiar el *Global Shark Attack File* y usarlo para responder a una pregunta de negocio: dónde debería abrir (y dónde no) una escuela de surf que quiere vender seguridad, en qué épocas y horas conviene reforzar la vigilancia y para qué público.
+Limpiar el *Global Shark Attack File* y usarlo para responder a una pregunta de negocio: dónde debería abrir  una escuela de surf que quiere vender seguridad, en qué épocas y horas conviene reforzar la vigilancia y para qué público.
 
 El proyecto tiene dos partes con el mismo peso: dejar una tabla limpia y reproducible, y sacar de ella recomendaciones que se puedan defender con datos, diciendo también hasta dónde llegan esos datos.
 
